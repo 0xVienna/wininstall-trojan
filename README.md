@@ -25,8 +25,13 @@ It overwrites MBR very quickly on the start so that if anyone wants to remove th
 
 # Credits
 https://www.youtube.com/@ClutterTech - For GDI payloads
+
 https://www.youtube.com/watch?v=XiTzsh1hErI - For C# anti kill source code
+
 https://www.youtube.com/@Lewis.Channel - Planner, bug fixer, creator and more
+
 Visual Studio 2022 - IDE
+
 C# - The code language I used
+
 Stock images - for Windows 7 images, install now, more user interface
