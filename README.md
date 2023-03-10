@@ -1,3 +1,6 @@
+![image](https://i.imgur.com/pajdPod.png)
+
+
 # !!! README !!!
 - BY RUNNING THIS EXECUTABLE, YOU AGREE THAT THE CREATOR IS NOT RESPONSIBLE FOR ANY DAMAGES.
 
